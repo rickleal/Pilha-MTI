@@ -1,5 +1,6 @@
-#RIck Leal
+#Rick Leal
 
+#opcional
 if __name__ == '__main__':
 
 qte = int(input())
