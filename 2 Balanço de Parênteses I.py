@@ -1,7 +1,9 @@
 # Rick Leal
 
+#opcional
 if __name__ == '__main__':
-
+  
+  # massete try (URI)
   while True:
       try:
           p = input()
